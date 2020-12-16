@@ -5,7 +5,6 @@ Converte arquivos .txt em um arquivo PDF utilizando Python e a biblioteca FPDF.
 Estes são os arquivos .txt contendo parágrafos gerados utilizando o Lorem Ipsum
 
 > text-file-to-pdf/screenshots/print_files.png
-
 ![](screenshots/print_files.png)
 
 E algumas screenshots do PDF gerado
